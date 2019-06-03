@@ -1,0 +1,18 @@
+How many commits are in this repository (in total; in all branches)?
+33 commits in the dev branch - used Github to see that
+67 commits in all branches - git rev-list --all --count in Git Bash
+
+
+
+When was the line #10 in the file index.html last changed and who is the author of that commit?
+Line #10 was last changed on 2018-05-07 19:17:18 by Stepan Bolotnikov
+
+Used git blame index.html in Git bash to check that 
+
+
+
+
+What is the commit message of the commit with the hash 865cbc8?
+Added travis config file
+
+Used Github webpage to search the hash in commits
